@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Subrat Patnaik and Bre Bradham",
+            "title": "GameStop Extends Rout on Plan to Sell Up to 45 Million Shares - Yahoo Finance",
+            "description": "(Bloomberg) -- GameStop Corp. shares tumbled toward a third day of declines after the company said it may sell up to 45 million shares, further paring the...",
+            "url": "https://finance.yahoo.com/news/gamestop-amc-shares-rise-two-100723939.html",
+            "urlToImage": "https://media.zenfs.com/en/bloomberg_markets_842/600606712b6687bbb8423d4a013df3fc",
+            "publishedAt": "2024-05-17T12:15:46Z",
+            "content": "(Bloomberg) -- GameStop Corp. shares tumbled toward a third day of declines after the company said it may sell up to 45 million shares, further paring the meme-fueled rally that had sent the stock fl… [+2152 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Deidre McPhillips",
+            "title": "New virus variants threaten a summer Covid-19 wave, but experts say the risk remains uncertain - CNN",
+            "description": "Covid-19 levels are about the lowest they’ve ever been in the United States, but another new crop of virus variants once again threatens to disrupt the downward trend as the country heads into summer.",
+            "url": "https://www.cnn.com/2024/05/17/health/flirt-covid-variants-summer-wave-risk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/c-gettyimages-1489205517.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2024-05-17T11:38:00Z",
+            "content": "Covid-19 levelsare about the lowest theyve ever been in the United States, but another new crop of virus variants once again threatens to disrupt the downward trend as the country heads into summer.\r… [+6016 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Supreme Court Justice Alito's home flew US flag upside down following Jan. 6-NYT - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/us/supreme-court-justice-alitos-home-flew-us-flag-upside-down-following-jan-6-nyt-2024-05-17/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-17T11:31:36Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": "Helen Bushby - Culture reporter",
+            "title": "Rave reviews for 'bold, brilliant' Billie Eilish - Yahoo Entertainment",
+            "description": "Critics call the album \"explicit, sapphic and her best work yet\", plus \"confident and non-conformist\".",
+            "url": "https://www.bbc.com/news/articles/c8vzd111r3lo?xtor=AL-72-%5Bpartner%5D-%5Byahoo.north.america%5D-%5Bheadline%5D-%5Bnews%5D-%5Bbizdev%5D-%5Bisapi%5D",
+            "urlToImage": "https://media.zenfs.com/en/bbc_us_articles_995/f9e100473f6e3d21ed8ac6655dfc69f9",
+            "publishedAt": "2024-05-17T11:31:05Z",
+            "content": "Critics have been very upbeat about Billie Eilish's \"surprising and intimate\" third studio album, Hit Me Hard And Soft, which was released on Friday.\r\nThe star wrote on Instagram that she and her bro… [+3608 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Variety"
+            },
+            "author": "Matt Donnelly",
+            "title": "Francis Ford Coppola Slams Studio System After He Self-Financed ‘Megalopolis’: Execs ‘Don’t Make Good Movies … They Pay Their Debt Obligations’ - Variety",
+            "description": "Francis Ford Coppola shared his thoughts on the current studio system during the press conference for his self-financed epic 'Megalopolis.'",
+            "url": "https://variety.com/2024/film/news/francis-ford-coppola-slams-studio-system-megalopolis-self-financed-1236007285/",
+            "urlToImage": "https://variety.com/wp-content/uploads/2024/05/coppola.jpg?w=1000&h=563&crop=1",
+            "publishedAt": "2024-05-17T11:21:00Z",
+            "content": "Francis Ford Coppola shared his thoughts on the current studio system during the Cannes Film Festival press conference for his self-financed epic “Megalopolis,” saying that they might not be around m… [+3660 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Mark Schlabach",
+            "title": "Scottie Scheffler arrested before start of PGA Championship - ESPN",
+            "description": "World No. 1 golfer Scottie Scheffler was arrested by Louisville Metro Police on Friday morning after trying to drive into the entrance of Valhalla Golf Club, the site of this week's PGA Championship.",
+            "url": "https://www.espn.com/golf/story/_/id/40162983/scottie-scheffler-detained-police-prior-start-pga-championship",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0514%2Fr1333015_2_1296x729_16%2D9.jpg",
+            "publishedAt": "2024-05-17T11:07:00Z",
+            "content": "LOUISVILLE, Ky. -- World No. 1 golfer Scottie Scheffler was arrested by Louisville Metro Police on Friday morning after trying to drive into the entrance of Valhalla Golf Club, the site of this week'… [+2522 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Lisa Kailai Han, Alex Harring",
+            "title": "Dow futures are little changed after blue-chip average touches 40,000 for first time: Live updates - CNBC",
+            "description": "The Dow briefly crossed 40,000 for the first time on Thursday.",
+            "url": "https://www.cnbc.com/2024/05/16/stock-market-today-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/102942609-RTX1PHD4.jpg?v=1529451909&w=1920&h=1080",
+            "publishedAt": "2024-05-17T10:09:00Z",
+            "content": "Futures tied to the Dow Jones Industrial Average traded near flat Friday, after the blue-chip average briefly topped the key 40,000 level for the first time in the previous session.\r\nFutures connecte… [+1899 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": "Reuters",
+            "title": "Israel tells World Court South Africa case makes a mockery of genocide - Reuters",
+            "description": null,
+            "url": "https://www.reuters.com/world/middle-east/israel-tells-world-court-south-africa-case-makes-mockery-genocide-2024-05-17/",
+            "urlToImage": null,
+            "publishedAt": "2024-05-17T10:01:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fox Business"
+            },
+            "author": "Daniella Genovese",
+            "title": "Walmart gains high-income shoppers as elevated prices persist - Fox Business",
+            "description": "Walmart noted yet again that its continuing to gain even more higher-income shoppers. Executives say the driver isn't necessarily price but convenience.",
+            "url": "https://www.foxbusiness.com/lifestyle/walmart-gains-high-income-shoppers-elevated-prices-persist",
+            "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2024/05/0/0/walmart-3.jpg?ve=1&tl=1",
+            "publishedAt": "2024-05-17T10:00:00Z",
+            "content": "Retail giant Walmart – a key indicator of how the consumer is doing – is still gaining with higher-income shoppers as higher prices continue to restrain household budgets.\r\n\"We're seeing higher engag… [+2978 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "POLITICO",
+            "title": "Biden's team had a few demands for a Trump debate. A major one: No crowd. - POLITICO",
+            "description": null,
+            "url": "https://www.politico.com/news/2024/05/17/biden-trump-debate-2024-demands-00158586",
+            "urlToImage": null,
+            "publishedAt": "2024-05-17T09:00:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Rouen: Man shot dead after French synagogue set on fire - BBC.com",
+            "description": "The man was armed with a knife and a metallic tool and was shot by an officer after he threatened the police.",
+            "url": "https://www.bbc.com/news/articles/cp3g8kl8dd5o",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/c6b0/live/9334a970-143c-11ef-976f-87c9f89e656e.jpg",
+            "publishedAt": "2024-05-17T08:43:07Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Detroit News"
+            },
+            "author": "Hayley Harding",
+            "title": "'Day of celebration': Detroit sees first population growth since 1957 - Detroit News",
+            "description": "Detroit gained 1,852 people from July 1, 2022 to July 1, 2023, according to the Census Bureau, the city's first population growth since 1957.",
+            "url": "https://www.detroitnews.com/story/news/local/detroit-city/2024/05/16/day-of-celebration-detroit-sees-first-population-growth-since-1957/73685335007/",
+            "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2024/05/15/PDTN/73708083007-20240515-rbmedowntown-038.jpg?crop=3397,1912,x0,y150&width=3200&height=1802&format=pjpg&auto=webp",
+            "publishedAt": "2024-05-17T07:34:17Z",
+            "content": "Detroit For the first time in 66 years, Detroit grew in population, according to new Census Bureau estimates for 2023 that Mayor Mike Duggan hailed as \"a day of celebration\" for Michigan's largest ci… [+7292 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "DAVID J. PHILLIP, LISA BAUMANN, CHRISTOPHER WEBER",
+            "title": "Severe storms kill at least 4 in Houston, knock out power to 900000 homes and businesses - The Associated Press",
+            "description": "Severe thunderstorms have hit southeastern Texas for the second time this month, and Houston's mayor says at least four people are dead. There have also been windows blown out of high-rise buildings, downed trees and power outages for more than 900,000 custom…",
+            "url": "https://apnews.com/article/houston-texas-severe-weather-storms-d14447267de0a8900e1475a8ad7ed8ba",
+            "urlToImage": "https://dims.apnews.com/dims4/default/f7c3b9c/2147483647/strip/true/crop/8640x4860+0+450/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa3%2F9a%2F1b7679e9e5c742e0d515d136db0e%2F6e83049bac954afb8154560bdacf2155",
+            "publishedAt": "2024-05-17T07:32:00Z",
+            "content": "HOUSTON (AP) Fast-moving thunderstorms pummeled southeastern Texas on Thursday for the second time this month, killing at least four people, blowing out windows in high-rise buildings, downing trees … [+3223 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "War in Ukraine: Key weeks ahead for Russia’s offensive in Ukraine - BBC.com",
+            "description": "Russia has launched a push north of Kharkiv but its ultimate goal is so far unclear.",
+            "url": "https://www.bbc.com/news/articles/c2jd3k1zyjro",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1fe7/live/142fd2a0-1412-11ef-bee9-6125e244a4cd.jpg",
+            "publishedAt": "2024-05-17T07:05:35Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "2024 NFL schedule release: Ranking 10 must-see games, including Jets-49ers opener, Harbaugh Bowl - CBS Sports",
+            "description": "These dates are already etched into our calendar",
+            "url": "https://www.cbssports.com/nfl/news/2024-nfl-schedule-release-ranking-10-must-see-games-including-jets-49ers-opener-harbaugh-bowl/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/10/17/ac3c873a-bb15-43d0-a61e-4271a2c59628/thumbnail/1200x675/4adadaf2622f72f8c1a7ac0c35694cec/rodgers-5.png",
+            "publishedAt": "2024-05-17T05:46:00Z",
+            "content": "The 2024 NFL schedule is here, with the league on Wednesday unveiling every single contest of the upcoming regular season. There is, of course, no shortage of dramatic storylines littered from Septem… [+4297 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Minneapolis Star Tribune"
+            },
+            "author": "Chris Hine, Star Tribune",
+            "title": "Timberwolves beat Nuggets by 45 points, set up Game 7 on Sunday - Star Tribune",
+            "description": "The Timberwolves trailed the Nuggets behind 9-2 in the first few minutes, but buried that slow start with a 20-point run that set the stage for one of the most successful games in the team’s history.",
+            "url": "https://www.startribune.com/timberwolves-nuggets-game-6-blowout-anthony-edwards-karl-anthony-towns-target-center/600366609/",
+            "urlToImage": "https://arc.stimg.co/startribunemedia/YXI2ZW5IJBA7ZJUYXTHUKOISK4.jpg?h=630&w=1200&fit=crop&bg=999&crop=faces",
+            "publishedAt": "2024-05-17T05:43:23Z",
+            "content": "As the Timberwolves were hurrying out of the visiting locker room in Denver following their Game 5 loss, Anthony Edwards wasn't too upset and was in a talkative mood.\r\nHe chatted a bit with teammates… [+6721 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hindustan Times"
+            },
+            "author": "Aditi Srivastava",
+            "title": "Jennifer Lopez and Ben Affleck 'won't split', insider speaks out amid growing divorce tension - Hindustan Times",
+            "description": "Jennifer Lopez and Ben Affleck's rekindled romance facing challenges as they seem to be on 'different pages' amid divorce rumours and tension.",
+            "url": "https://www.hindustantimes.com/entertainment/music/jennifer-lopez-and-ben-affleck-wont-split-insider-speaks-out-amid-growing-divorce-tension-101715920652528.html",
+            "urlToImage": "https://www.hindustantimes.com/ht-img/img/2024/05/17/1600x900/FoP5i27aAAEGTxz_1675648897016_1715920904121.jpeg",
+            "publishedAt": "2024-05-17T04:43:47Z",
+            "content": "Are Jennifer Lopez and Ben Affleck's rekindled romance hitting the skids? Amid growing tension and divorce rumours, a source has spoken out about the couple potentially being on \"different pages\" reg… [+2790 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "New York Post"
+            },
+            "author": "Victor Nava",
+            "title": "House hearing on Garland devolves into chaos involving AOC, MTG & Crockett: 'Are your feelings hurt? Aww' - New York Post ",
+            "description": "“I think you know what you’re here for,” Rep. Marjorie Taylor Greene told Democratic Rep. Jasmine Crockett. “I think your fake eyelashes are messing up what you’re reading.”",
+            "url": "https://nypost.com/2024/05/17/us-news/house-hearing-on-garland-devolves-into-chaos-involving-mtg-aoc-amp-crockett/",
+            "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2024/05/newspress-collage-cjvy24av5-1715930936760.jpg?quality=75&strip=all&1715916732&w=1024",
+            "publishedAt": "2024-05-17T04:29:00Z",
+            "content": "Republican Rep. Marjorie Taylor Greene traded barbs with Democratic Reps. Alexandria Ocasio-Cortez and Jasmine Crockett during a train wreck of a House Oversight Committee hearing Thursday night in w… [+4236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "BBC News"
+            },
+            "author": null,
+            "title": "Harrison Butker 'homemaker' speech sparks backlash - BBC.com",
+            "description": "Harrison Butker also attacked \"degenerate cultural values\" and \"the tyranny of diversity, equity and inclusion\".",
+            "url": "https://www.bbc.com/news/world-us-canada-69021543",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15B81/production/_133316988_gettyimages-1999165796.jpg",
+            "publishedAt": "2024-05-17T03:30:43Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Lynette Rice",
+            "title": "‘Young Sheldon’ Series Finale: EP Steve Holland Talks Return Of Mayim Bialik & Jim Parsons, Why The World Needs A Sheldon Cooper Memoir - Deadline",
+            "description": "The May 16 episode of Young Sheldon marked the end of The Big Bang Theory spinoff, with young Sheldon Cooper (Iain Armitage) heading off to California",
+            "url": "http://deadline.com/2024/05/young-sheldon-series-finale-producer-interview-1235919308/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2024/05/2940462_WB_0135bc.jpg?w=1024",
+            "publishedAt": "2024-05-17T01:00:00Z",
+            "content": "Spoiler alert! This story contains details from the series finale episode of Young Sheldon on CBS. \r\nGood luck at Caltech, Sheldon! We know you’ll do just fine and go on to make great friends in Pasa… [+7144 chars]"
+        }
+    ]
+}
